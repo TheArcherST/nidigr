@@ -1,0 +1,10 @@
+[project]
+name = "nidigr"
+version = "0.0.1"
+dependencies = [
+    "requests",
+]
+
+[project.scripts]
+nidigr = "nidigr.main:main"
+
