@@ -112,7 +112,7 @@ def make_parser():
     parser = ArgumentParser(
             epilog="",
             description=(
-                "Digraph-based nickname generator."
+                "Very simple digraph-based nickname generator."
                 " Automatically collects digraph statitics from web (currently, statically, from some IETF standards),"
                 " and generates letter sequences based on this statistics.  First digraph is selects randomly, than,"
                 " for the rest of nickname, wee lookup for digraphs that starts from last letter of word, and choise"
