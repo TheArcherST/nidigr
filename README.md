@@ -1,7 +1,7 @@
 ## Installation
 
 ```bash
-pip install https://github.com/TheArcherST/nidigr
+pip install https://github.com/TheArcherST/nidigr/archive/refs/heads/master.zip
 ```
 
 
